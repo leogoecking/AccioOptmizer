@@ -132,3 +132,4 @@ Se uma etapa obrigatória falhar, a operação passa a ser registrada como parci
 - planos de energia criados pelo Accio passam a ser registrados para remoção no rollback;
 - o lançador aguarda o processo elevado e recebe seu código de saída;
 - a execução é recusada quando a elevação usa uma conta diferente, protegendo ajustes em `HKCU`.
+"# AccioOptmizer" 
